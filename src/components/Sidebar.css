@@ -1,0 +1,11 @@
+aside {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+
+    padding: 0 0.8rem;
+
+    background-color: #1b262c;
+
+}
